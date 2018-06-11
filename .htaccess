@@ -1,0 +1,2 @@
+Options +Indexes
+AddType text/cache-manifest .cache
